@@ -241,7 +241,7 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-bug-fill::before { content: "\f1db"; }
 .bi-bug::before { content: "\f1dc"; }
 .bi-building::before { content: "\f1dd"; }
-.bi-bullseye::before { content: "\f1de"; }
+.bi-bullseye::before { content: "\f248"; }
 .bi-calculator-fill::before { content: "\f1df"; }
 .bi-calculator::before { content: "\f1e0"; }
 .bi-calendar-check-fill::before { content: "\f1e1"; }
